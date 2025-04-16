@@ -1,5 +1,3 @@
-
-```markdown
 # Clima Atual com ThingSpeak
 
 Este projeto em Python acessa periodicamente a [API do OpenWeatherMap](https://openweathermap.org/current) para obter a **temperatura** e a **umidade** de uma cidade específica e envia esses dados para um canal no **ThingSpeak**, onde é possível gerar gráficos e visualizações em tempo real.
