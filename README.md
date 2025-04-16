@@ -1,6 +1,3 @@
-Show! Vamos fazer um `README.md` seguindo o mesmo padrão, agora para o projeto de **clima** com envio de dados ao **ThingSpeak**.
-
----
 
 ```markdown
 # Clima Atual com ThingSpeak
